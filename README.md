@@ -1,2 +1,2 @@
 # Material_Estudio
-Material del Tec
+Material del Tecnólogo en Informática
